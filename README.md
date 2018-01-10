@@ -6,6 +6,13 @@ Aplikacja pozwala na wysłanie zapytania bazodanowego typu select do serwera kt�
 -------------
 
 -------------
+    JAK PRZETESTOWAĆ
+-------------
+
+Potrzebny zainstalowany XAMPP z domyślnymi ustawieniami - login root i brak hasła. Na chwilę obecną na sztywno jest ustawione połączenie do bazy mysql na której możemy wykonać zapytanie select * from user;
+
+
+-------------
     TODO
 -------------
 
